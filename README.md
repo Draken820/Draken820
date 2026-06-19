@@ -8,7 +8,7 @@
 
 <br>
 
-### 🪪 Licencias Oficiales
+### Licencias Oficiales
 <p>
   <img src="https://img.shields.io/badge/Certificación_Oficial-CONOCER-E50000?style=flat-square&logo=academia" alt="Conocer" />
   <b>Certificado en Java por parte de CONOCER.</b> (Superado con éxito, como un verdadero Examen del Cazador).
@@ -16,7 +16,7 @@
 
 <br>
 
-### ⚡ Arsenal de Habilidades (Stack Tecnológico)
+###  Arsenal de Habilidades (Stack Tecnológico)
 <div align="center">
   <!-- Colores sutiles: Rojo (Luffy), Amarillo/Naranja (Ging/Fuego), Amarillo JS -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -31,7 +31,7 @@
 
 <br>
 
-### 🧭 Misiones y Proyectos
+###  Misiones y Proyectos
 <details>
   <summary><b>Ringcard</b></summary>
   <br>

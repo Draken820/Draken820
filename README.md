@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola! Soy Angel Pichardo Rivera <img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHnV-q2gVRfhV0o7cAPSrRJYvMVgW2c0MpYA&s></h1>
+  <h1>¡Hola! Soy Angel Pichardo Rivera <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHnV-q2gVRfhV0o7cAPSrRJYvMVgW2c0MpYA&s></h1>
   <p><b>Desarrollador de Software | Entusiasta de Linux (CachyOS)</b></p>
   
   <p><i>Afinando mi Haki de Observación para encontrar bugs y dominando mi categoría Nen como Especialista en desarrollo backend y bases de datos.</i></p>
